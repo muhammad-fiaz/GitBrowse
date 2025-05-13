@@ -1,10 +1,7 @@
 # GitBrowse
 
-> A modern, intuitive web interface for searching GitHub repositories and projects, built with [Svelte](https://svelte.dev/) and powered by [`sv`](https://github.com/sveltejs/cli).
+GitBrowse enables you to quickly search for any public GitHub repository or project and view all relevant details, such as repository status, stars, forks, issues, and contributors. If you want to explore a repository in depth, click, and you'll be redirected to the repository on GitHub.
 
-## Overview
-
-GitBrowse enables you to quickly search for any public GitHub repository or project and view all relevant details, such as repository status, stars, forks, issues, and contributors. If you want to explore a repository in depth, simply click and you'll be redirected to the repository on GitHub.
 
 ## Features
 
@@ -128,6 +125,3 @@ All contributions are welcome! Please open issues for bugs or feature requests.
 
 Licensed under the [Apache License, Version 2.0](LICENSE).
 
----
-
-Made with ❤️ using [Svelte](https://svelte.dev/) and [`sv`](https://github.com/sveltejs/cli).
